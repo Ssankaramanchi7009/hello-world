@@ -1,1 +1,2 @@
 # hello-world
+I am looking to sharpen my css and javascript skills through this course and want to improve on my back-end developing skills. I have previously worked on a professional project as a full-stack java developer, where I had to work with different set of skills like microservices and springboot.
